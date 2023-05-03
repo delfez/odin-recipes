@@ -1,0 +1,25 @@
+
+h1 {
+    font-size: 100px;
+    color: rgb(250, 100, 20);
+    margin-left: 150px;
+    font-family: "Times New Roman";
+}
+
+ul {
+    margin-top: 130px;
+    line-height: 150px;
+    font-size: 27px;
+    margin-left: 150px;
+}
+
+img {
+    
+    height:110px;
+    width: auto;
+}
+
+.font {
+
+    font-family:'Courier New', Courier, monospace;
+}
