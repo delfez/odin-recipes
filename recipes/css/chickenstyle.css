@@ -1,7 +1,12 @@
+body {
+    background-color: rgb(230, 170, 90);
+}
+
 img {
     height: 300px;
     width: auto;
     margin-left: 100px;
+    border: 10px solid brown;
     
 }
 

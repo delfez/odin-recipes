@@ -18,9 +18,28 @@ img {
     
     height:110px;
     width: auto;
+    border: 7px solid brown;
 }
 
 .font {
 
     font-family:'Courier New', Courier, monospace;
+}
+body {
+    background-color: rgb(238, 214, 134);
+}
+ul {
+    display: flex;
+    border: 20px double rgb(240, 170, 20);
+    height: auto;
+    width: 1350px;
+    
+    background-color: rgb(220, 150, 30);
+    box-sizing: border-box;
+}
+ul li {
+    margin: 50px;
+}
+ul > * {
+    flex: auto;
 }
